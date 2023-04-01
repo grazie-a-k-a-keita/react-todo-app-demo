@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.todo {
+  text-align: left;
+  margin: 8px 0;
+}
+
+.checkTodo {
+  margin-right: 8px;
+}
+
+.inputTodo {
+  height: 24px;
+  margin-right: 8px;
+}
