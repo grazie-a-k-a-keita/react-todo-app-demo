@@ -8,16 +8,16 @@ node -v
 ## Reactプロジェクト作成コマンド（npm）
 ### JS
 ```
-npx create-react-app { 任意 }
+npx create-react-app { projectName }
 ```
 ### TS
 ```
-npx create-react-app { 任意 } --template typescript
+npx create-react-app { projectName } --template typescript
 ```
 
 ## サーバー起動方法
 ```
-cd { 作成したプロジェクト名 }
+cd { projectName }
 npm start
 ```
 
