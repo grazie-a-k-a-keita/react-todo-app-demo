@@ -1,27 +1,36 @@
-# TodoApp-for-React
-React（TypeScript）を使った、簡単なTodoアプリ開発
+## Todo App for React
 
-## node確認コマンド
-```
+React（TypeScript）を使った、簡単な Todo アプリ開発
+
+### Start
+
+```shell
+# node バージョン確認
 node -v
-```
-## Reactプロジェクト作成コマンド（npm）
-### JS
-```
-npx create-react-app { projectName }
-```
-### TS
-```
-npx create-react-app { projectName } --template typescript
+
+# package install
+npm install
+
+# server start
+npm run start:legacy
 ```
 
-## サーバー起動方法
-```
+### React プロジェクト開始方法
+
+```shell
+# JS
+npx create-react-app { projectName }
+# TS
+npx create-react-app { projectName } --template typescript
+
+# サーバー起動
 cd { projectName }
 npm start
 ```
 
-## React雛形作成コマンド
-```
+### その他
+
+```shell
+# コンポーネント雛形作成コマンド(拡張機能)
 refce
 ```
