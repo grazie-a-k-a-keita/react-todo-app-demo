@@ -2,6 +2,8 @@
 
 React（TypeScript）を使った、簡単な Todo アプリ開発
 
+[React(TypeScript)の復習として簡単なTodoアプリを作ってみた話](https://zenn.dev/grazie/articles/cfb43e4b81a152)
+
 ### Start
 
 ```shell
